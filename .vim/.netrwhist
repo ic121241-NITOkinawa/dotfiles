@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/akihiroyoza/.vim'
+let g:netrw_dirhist_2='/Users/akihiroyoza/.vim/colors'
+let g:netrw_dirhist_3='/Users/akihiroyoza/.vim'
+let g:netrw_dirhist_4='/Users/akihiroyoza'
+let g:netrw_dirhist_5='/Users'
+let g:netrw_dirhist_6='/'
+let g:netrw_dirhist_7='/Users/akihiroyoza/.vim'
+let g:netrw_dirhist_8='/Users/akihiroyoza'
+let g:netrw_dirhist_9='/Users/akihiroyoza/.vim'
